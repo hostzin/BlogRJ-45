@@ -1,5 +1,5 @@
 🌐 Blog Técnico: Cabos de Rede (IFPI)
-Projeto de um blog responsivo sobre infraestrutura de redes (CAT5e até CAT8), desenvolvido para a disciplina de Desenvolvimento Web no IFPI.
+Projeto de um blog responsivo sobre infraestrutura de redes (CAT5e até CAT8), desenvolvido para a disciplina de Programação WEB FRONT-END no IFPI.
 
 🛠️ O que tem no projeto:
 HTML & CSS: Uso de tags semânticas e variáveis para cores.
