@@ -12,6 +12,8 @@ Efeitos Visuais: Cards que sobem e mudam de cor ao passar o mouse.
 
 Imagens Inteligentes: Carrega fotos menores em telas pequenas.
 
+Link para o blog: https://hostzin.github.io/BlogRJ-45/
+
 👨‍💻 Desenvolvedor
 Vitor Manoel
 Suporte de TI | Estudante de Sistemas (TDS - IFPI)
